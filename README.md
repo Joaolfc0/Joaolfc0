@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8FF,100:3A6EA5&height=200&section=header&text=João%20Luiz%20Cerqueira&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20·%20Software%20Architecture&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8FF,100:3A6EA5&height=200&section=header&text=João%20Luiz%20Cerqueira&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20·%20Software%20Engineering&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <table align="center" border="0">
 <tr>
