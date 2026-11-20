@@ -9,12 +9,11 @@
 
 ### Olá! I'm João 👋
 
-<a href="https://github.com/Joaolfc0"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&vCenter=true&width=420&lines=Backend+Developer;Passionate+about+software+architecture;MSc+Software+Engineering+%40+FEUP;Member+of+JuniFEUP+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://github.com/Joaolfc0"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&vCenter=true&width=420&lines=Backend+Developer;Passionate+about+software+engineering;MSc+Software+Engineering+%40+FEUP;Member+of+JuniFEUP+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 - ⚙️ **Backend developer** with a passion for **software architecture**
 - 🎓 MSc in Software Engineering @ **FEUP**
 - 🎓 BSc in Computer Science @ **UFMG**
-- 📄 Published at **SBCARS**: *How reliable are LLMs on microservice software architecture diagram assessment?*
 - 💼 Member of **JuniFEUP**, FEUP's junior enterprise
 - 🌍 Based in Porto, Portugal
 
