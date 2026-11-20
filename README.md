@@ -1,5 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8FF,100:3A6EA5&height=200&section=header&text=João%20Luiz%20Cerqueira&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20·%20Software%20Engineering&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
+<p align="center">
+  <a href="https://joaolfc0.github.io">
+    <img src="https://img.shields.io/badge/Visit%20my%20website-joaolfc0.github.io-A8D8FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3A6EA5" height="44" alt="Visit my website: joaolfc0.github.io" />
+  </a>
+</p>
+<p align="center"><sub>CV, publications, projects and a contact form, all in one place.</sub></p>
+
 <table align="center" border="0">
 <tr>
 <td width="230" align="center" valign="middle">
@@ -16,6 +23,7 @@
 - 🎓 BSc in Computer Science @ **UFMG**
 - 💼 Member of **JuniFEUP**, FEUP's junior enterprise
 - 🌍 Based in Porto, Portugal
+- 🌐 Website: **[joaolfc0.github.io](https://joaolfc0.github.io)**
 
 </td>
 </tr>
